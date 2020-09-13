@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Since January 2019, I'm, working as a developer in Secretaria de Estado da Fazenda de Sergipe, processing fiscal documents to help and enable auditing of tax documents;
+- 🔭 Since January 2019, I'm, working as a developer in Secretaria de Estado da Fazenda de Sergipe (SEFAZ-SE), processing fiscal documents to help and enable auditing of tax documents;
 - 🌱 Since March 2020, I'm pursuing a Master's degree in Computer Science, focusing in Computer Graphics and realistic scene reconstruction;
 - 👯 You can get my CV [here](https://github.com/arturxz/arturxz/blob/master/cv/cv_artur.pdf)
 - ⚡ Fun fact: Imma Jedi Master 
